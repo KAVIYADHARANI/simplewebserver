@@ -1,4 +1,5 @@
-# Developing a Simple Webserver
+# EX01 Developing a Simple Webserver
+## DATE: 07/10/2023
 ## AIM:
 To develop a simple webserver to serve html pages.
 
@@ -78,3 +79,4 @@ httpd.serve_forever()
 ![Alt text](simplewebserver1.png)
 
 ## RESULT:
+Thus the program for creating a table using simplewebserver has been executed successfully.
